@@ -1,0 +1,16 @@
+n=input("ENTER A NO.")
+n=int(n)
+b=0
+s=0
+while n>9:
+    while n>0:
+        b=n%10
+        s=s+b
+        n=int(n/10)
+    n=s
+    h=s
+    s=0
+if (h==1):
+    print("m")
+else:
+    print("nm")

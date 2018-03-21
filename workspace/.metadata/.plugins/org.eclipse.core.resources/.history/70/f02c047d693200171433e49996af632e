@@ -1,0 +1,4 @@
+def calc (n):
+    result=n*7
+    print (result)
+calc(5)

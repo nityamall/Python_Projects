@@ -1,0 +1,18 @@
+low=input("Input the lower range")
+high=input("Input the higher range")
+low=int(low)
+high=int(high)
+b=0
+m=0
+n=low
+while n<=high:
+    f=0
+    h=n
+    while n>0:
+        b=n%10
+        f=b*b*b
+        m=m+f
+        n=int(n/10)
+    if (m==h):
+        print("%d"%h)
+    n=n+1

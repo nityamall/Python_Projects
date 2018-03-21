@@ -1,0 +1,35 @@
+w=['airline']
+n=8
+r=[]
+h=[]
+l=len(w)
+c=8
+x=w[0]
+y=x[0]
+for i in range (n):
+    g=input("ENTER THE GUESSES")
+    c=c-1
+    for j in range (l):
+        if(g==w[j]):
+            r.append (g)
+        else:
+            h.append(g)
+    for r in range(y):
+        for k in range(r):
+            if(r[k]==w[j]):
+               s=r[k]
+               print("%d"%s)
+    print("%d"%c) 
+            
+
+    
+     
+                
+       
+        
+        
+    
+    
+    
+    
+    

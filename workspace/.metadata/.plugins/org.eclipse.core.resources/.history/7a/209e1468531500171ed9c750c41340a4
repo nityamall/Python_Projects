@@ -1,0 +1,11 @@
+n=input("Enter a no.")
+n=int(n)
+b=1
+c=0
+s=0
+while n>0 :
+    c=c+1
+    s=s+ math.pow(b,c)
+    c=c-1
+    n=int(n/10)
+    

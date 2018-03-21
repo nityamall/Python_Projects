@@ -1,0 +1,16 @@
+n=input("e a no.")
+n=int(n)
+b=0
+s=0
+while n>9:
+    while n>0:
+        b=n%10
+        s=s=b
+        n=int(n/10)
+    p=s
+    n=s
+    s=0
+if(p==1):
+    print("mn")
+else:
+    print("not mn")

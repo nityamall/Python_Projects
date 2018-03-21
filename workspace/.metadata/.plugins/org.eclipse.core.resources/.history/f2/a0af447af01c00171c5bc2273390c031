@@ -1,0 +1,10 @@
+n=input("NO. OF NAMES")
+n=int(n)
+g=[]
+for i in range(n):
+    k=input("Enter the name")
+    g.append(k)
+x=g.index(d)
+print("%d"%x)
+for j in range(n):
+    print(g[j])

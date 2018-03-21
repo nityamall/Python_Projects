@@ -1,0 +1,5 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.egit.ui.GitTheme\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.recommenders.snipmatch.rcp.themeElementCategory\tTorg.eclipse.mylyn.tasks.ui.presentation
+ColorsAndFontsPreferencePage.selectedElement=CCONTENT_ASSIST_BACKGROUND_COLOR
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
+eclipse.preferences.version=1

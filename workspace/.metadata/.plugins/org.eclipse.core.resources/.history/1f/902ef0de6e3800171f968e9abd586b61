@@ -1,0 +1,3 @@
+n=input("ENTER THE COSTUMER NAME")
+m=input("ENTER THE COSTUMER NO.")
+e=input("EN")

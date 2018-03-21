@@ -1,0 +1,20 @@
+n=input("ENTER THR STRING").upper()
+k=input("ENTER THE WORD YOU ARE FINDING").upper()
+l=len(n)
+g=[]
+c=0
+flag=0
+for i in range (l):
+    while(n[i]!=' ' and c<=l):
+        g[c]=n[i]
+        c=c+1
+        if(n[i]==' '):
+            break
+    if(list(k)==list(g)):
+        print("Found")
+        flag=1
+        break
+if(flag==0):
+    print("Not Found")
+
+        

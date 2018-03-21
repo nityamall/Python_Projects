@@ -1,0 +1,17 @@
+def gender(sex='unknown'):
+    if sex=='m':
+        print("male")
+    elif sex=='f':
+        print("female")
+    print(sex)
+
+    
+
+n=10235  
+def nitya():
+    print(n)
+
+def nitya2():
+    print(n)
+nitya()
+nitya2()

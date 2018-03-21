@@ -1,0 +1,7 @@
+fw=open('sample.txt','w')
+fw.write('i love chocolates\ni love sleeping')
+fw.close()
+fr=open('sample.txt','r')
+text=fr.read()
+print(text)
+fr.close()

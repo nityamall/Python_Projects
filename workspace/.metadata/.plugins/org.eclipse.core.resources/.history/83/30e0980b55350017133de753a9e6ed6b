@@ -1,0 +1,14 @@
+n=input("ENTER A NO.")
+n=int(n)
+b=0
+s=0
+r=0
+s=n*n
+while s>0:
+    b=s%10
+    r=r+b
+    s=int(s/10)
+if(r==n):
+    print("K")
+else:
+    print("NK")

@@ -1,0 +1,17 @@
+n=input("ENTER A NO.")
+n=int(n)
+b=0
+s=0
+m=0
+h=n
+while n>0:
+    b=n%10
+    s=b*b*b
+    m=m+s
+    n=int(n/10)
+if (m==h):
+    print("ARMSTRONG")
+else:
+    print("NOT AM")
+        
+    

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HelloWorld/ProG/__init__.py&apos; to &apos;reverse_digit.py&apos;" description="Rename resource &apos;__init__.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ProG/__init__.py" name="reverse_digit.py" stamp="1489897741499" updateReferences="true"/>
+</session>

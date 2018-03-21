@@ -1,0 +1,11 @@
+n=input("Enter a no.")
+n=int(n)
+b=0
+f=0
+m=0
+while n>0:
+    b=n%10
+    f=b*b*b
+    m=m+f
+    n=int(n/10)
+print("%d"%m)

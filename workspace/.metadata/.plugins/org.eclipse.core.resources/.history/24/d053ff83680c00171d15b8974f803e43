@@ -1,0 +1,17 @@
+low=input("Input the lower range")
+high=input("Input the higher range")
+low=int(low)
+high=int(high)
+b=0
+m=0
+print("ARMSTRONG -->")
+for i in range(low,high+1):
+    f=0
+    h=i
+    while i>0:
+        b=i%10
+        f=b*b*b
+        m=m+f
+        i=int(i/10)
+    if (m==h):
+        print("%d"%m)

@@ -1,0 +1,15 @@
+n=input("Enter the no. of numbers u want to enter")
+n=int(n)
+g=[]
+for i in range (0,n):
+    d=input("Enter the no.")
+    d=int(d)
+max=-99999999
+min=99999999
+for i in range (0,n):
+    if(g[i]>max):
+        max=g[i]
+    if(g[i]<min):
+        min=g[i]
+print("Maximum no.--> %d"%max)
+print("Minimum no.--> %d"%min)

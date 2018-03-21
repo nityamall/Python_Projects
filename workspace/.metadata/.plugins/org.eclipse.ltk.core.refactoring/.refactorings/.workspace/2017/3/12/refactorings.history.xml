@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;HelloWorld/reverse_digit.py&apos;" deleteContents="false" description="Delete resource &apos;HelloWorld/reverse_digit.py&apos;" element1="/HelloWorld/reverse_digit.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1489897766527"/>&#x0A;<refactoring comment="Delete resource &apos;HelloWorld/middle_digit.py&apos;" deleteContents="false" description="Delete resource &apos;HelloWorld/middle_digit.py&apos;" element1="/HelloWorld/middle_digit.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1489897834041"/>
+</session>

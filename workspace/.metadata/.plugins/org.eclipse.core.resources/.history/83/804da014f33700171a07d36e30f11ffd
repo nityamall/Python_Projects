@@ -1,0 +1,8 @@
+def gender(sex='unknown'):
+    if sex=='m':
+        print("male")
+    elif sex=='f':
+        print("female")
+    print(sex)
+gender('f')
+    

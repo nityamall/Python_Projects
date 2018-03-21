@@ -1,0 +1,13 @@
+n=input("ENTER A NO")
+n=int(n)
+b=0
+l=n*n
+s=0
+while l>0:
+    b=n%10
+    s=b+s
+    l=int(l/10)
+if (s==n):
+    print("k")
+else:
+    print("nk")

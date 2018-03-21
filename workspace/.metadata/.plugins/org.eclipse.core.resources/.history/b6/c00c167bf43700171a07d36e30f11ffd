@@ -1,0 +1,21 @@
+def gender(sex='unknown'):
+    if sex=='m':
+        print("male")
+    elif sex=='f':
+        print("female")
+    print(sex)
+
+    
+
+n=10325
+def nitya():
+    print(n)
+
+def nitya2():
+    print(n)
+nitya()
+nitya2()
+
+def church(name='Bucky',action='eat',article='the',item='pizza'):
+    print(name,action,article,item)
+church()

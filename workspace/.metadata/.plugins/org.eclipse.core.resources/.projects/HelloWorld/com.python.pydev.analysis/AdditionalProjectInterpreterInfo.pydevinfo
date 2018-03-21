@@ -1,0 +1,102 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Nitya1\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\HelloWorld\com.python.pydev.analysis\v2_indexcache
+HW|1487480436270158000|C:\Nitya1\workspace\HelloWorld\HW.py
+EI|1487484538256983000|C:\Nitya1\workspace\HelloWorld\EI.py
+TEST.test1|1494745328574888000|C:\Nitya1\workspace\HelloWorld\TEST\test1.py
+loop1|1489471687518618000|C:\Nitya1\workspace\HelloWorld\loop1.py
+TEST.test3|1494746480994781000|C:\Nitya1\workspace\HelloWorld\TEST\test3.py
+TEST.test2|1494744846947013000|C:\Nitya1\workspace\HelloWorld\TEST\test2.py
+PRIME_RANGE|1489471788678490000|C:\Nitya1\workspace\HelloWorld\PRIME_RANGE.py
+name|1489471454145532000|C:\Nitya1\workspace\HelloWorld\name.py
+NI|1487485374683117000|C:\Nitya1\workspace\HelloWorld\NI.py
+divisibility|1489761703691808000|C:\Nitya1\workspace\HelloWorld\divisibility.py
+fibonacci|1489763827782977000|C:\Nitya1\workspace\HelloWorld\fibonacci.py
+ODD_EVEN|1489760107272505000|C:\Nitya1\workspace\HelloWorld\ODD_EVEN.py
+while_loop|1489846649116157000|C:\Nitya1\workspace\HelloWorld\while_loop.py
+Charge|1489244750338340000|C:\Nitya1\workspace\HelloWorld\Charge.py
+COMBINE|1487484325313570000|C:\Nitya1\workspace\HelloWorld\COMBINE.py
+TEST.__init__|1494740190909155000|C:\Nitya1\workspace\HelloWorld\TEST\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+12=fibonacci
+10=ODD_EVEN
+1=EI
+4=while_loop
+7=Charge
+5=TEST.test1
+9=loop1
+3=TEST.test3
+2=TEST.test2
+14=HW
+11=COMBINE
+8=PRIME_RANGE
+6=NI
+13=divisibility
+-- END DICTIONARY
+-- START TREE 1
+59
+a|1|a!11@
+add|0|
+b|3|b!19@b!27@b!35@
+bil|1|billcalculate!42@
+c|3|c!43@c!35@c!19@
+cal|0|
+cd|0|
+chu|0|
+col|2|color!51@color1!51@
+cou|1|country!59@
+d|0|
+dis|1|display!42@
+dr|0|
+e|0|
+f|2|f!27@f!19@
+fla|2|flag!67@flag!75@
+g|0|
+gen|0|
+gst|1|gst!59@
+h|1|h!19@
+hig|1|high!83@
+i|0|
+inp|1|input1!42@
+j|0|
+k|1|k!19@
+l|1|l!27@
+lis|0|
+low|1|low!83@
+m|1|m!27@
+max|0|
+may|0|
+min|0|
+mw|0|
+n|3|n!35@n!27@n!19@
+nit|0|
+no|1|no!11@
+no1|1|no1!11@
+num|0|
+o|0|
+p|0|
+pc|1|pc!59@
+ply|2|plyr!91@plyr1!91@
+pro|1|prov!59@
+r|1|r!99@
+ran|5|range1!99@range1!67@range1!107@range2!67@range2!107@
+s|3|s!19@s!27@s!11@
+sc|1|sc!115@
+sho|1|show!42@
+str|0|
+sum|0|
+t|1|t!43@
+tc|1|tc!59@
+u|1|u!99@
+v|1|v!99@
+w|0|
+wor|0|
+x|0|
+y|0|
+z|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

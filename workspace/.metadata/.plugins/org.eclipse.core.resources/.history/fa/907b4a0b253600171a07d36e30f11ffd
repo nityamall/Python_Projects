@@ -1,0 +1,21 @@
+w=['airline']
+n=8
+r=[]
+l=[]
+l=len(w)
+for i in range (n):
+    g=("ENTER THE GUESSES")
+    for j in range (l):
+        if(g== ord (l[j])):
+            r.append (g)
+        else:
+            l.append(g)
+                
+       
+        
+        
+    
+    
+    
+    
+    

@@ -1,0 +1,10 @@
+n=input("ENTER A NO.")
+n=int(n)
+b=0
+b=n%10
+if(n%7==0 or b==7):
+    print("buzz no.")
+else:
+    print("not a b no.")
+        
+    

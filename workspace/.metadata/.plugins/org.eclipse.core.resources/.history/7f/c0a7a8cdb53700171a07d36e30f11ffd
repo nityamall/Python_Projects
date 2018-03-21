@@ -1,0 +1,9 @@
+n=input("e a no.")
+n=int(n)
+b=0
+m=0
+while n>0:
+    b=n%10
+    if(b>m):
+        m=b
+        print("%d"%m)
